@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 20px;
+    width: 600px;
+    height: 300px;
+    background-color: rgb(236, 209, 172);
+}
+div{
+    border: 2px solid #000;
+    width: 300px;
+    padding: 10px;
+}
+h4{
+    margin: 0;
+    padding: 0;
+}
